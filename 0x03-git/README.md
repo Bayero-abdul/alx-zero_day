@@ -1,1 +1,1 @@
-Git tasks
+Git project
